@@ -1,2 +1,39 @@
+table{
+	border-collapse:collapse;
+	width:100%;
+}
+th , td{
+	border: 2px solid black;
+            padding: 2px;
+            text-align: center;
+}
+ th {
+            background-color: indianred;
+			color:white;
+        }
+
+.row-1{
+			color:white;
+			background-color:yellowgreen;
+		}
+		.row-2{
+			color:black;
+			background-color:greenyellow;
+		}
+		.row-3{
+			color:black;
+			background-color:burlywood;
+		}
+
+
+
+
+
+
+
+
+
+
+
 
 /* Your CSS Code here. */
